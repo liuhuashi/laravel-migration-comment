@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Moments\\Migration\\": "src/laravel-migration-comment/Migration"
+      "Moments\\": "src/laravel-migration-comment/Moments"
     }
   }
 }
