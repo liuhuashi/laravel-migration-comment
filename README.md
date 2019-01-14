@@ -32,3 +32,9 @@ public function up()
     });
 }
 ```
+
+## 其他方式
+
+```php
+$table->charset = 'utf8 COMMENT="表注释代码"';
+```
